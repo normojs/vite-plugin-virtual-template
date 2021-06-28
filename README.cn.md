@@ -2,11 +2,9 @@
 
 [English](./README.md) | [中文](./REAMDE.cn.md)
 
-complie .vue file
+把string编译为vue组件
 
-
-
-### Developing
+### 开发
 
 ```shell
 npm install
@@ -18,7 +16,7 @@ npm run example:dev
 
 
 
-### Document
+### 文档
 
 ```js
 import * as App  from 'vite-plugin-virtual'
