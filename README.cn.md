@@ -1,6 +1,6 @@
 # vite-plugin-virtual-template
 
-[English](./README.md) | [中文](./REAMDE.cn.md)
+[English](./README.md) | [中文](./README.cn.md)
 
 把string编译为vue组件
 
